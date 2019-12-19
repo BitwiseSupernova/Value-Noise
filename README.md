@@ -5,3 +5,5 @@ The file "basicValueNoiseShader.pde" contains the GLSL necessary to run from Pro
 
 Example landscape generation:
 https://youtu.be/JoQl_F_LYN0
+
+<img src="noisePreview.png"></img>
